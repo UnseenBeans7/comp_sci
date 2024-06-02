@@ -1,1 +1,2 @@
-print("Hello, World")
+msg = "HELLO, EARTH"
+print(msg)
